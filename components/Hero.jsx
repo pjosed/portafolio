@@ -67,7 +67,7 @@ export default function Hero() {
         <div className="flex gap-4">
 
           <a
-            href="https://github.com/pjosed"
+            href="https://www.linkedin.com/in/jose-pe%C3%B1a-b584042b0/"
             target="_blank"
             className="px-6 py-3 bg-white text-black rounded-xl font-semibold hover:scale-105 transition"
           >
@@ -75,7 +75,7 @@ export default function Hero() {
             Ver Linkedin
           </a>
           <a
-            href="https://www.linkedin.com/in/jose-pe%C3%B1a-b584042b0/"
+            href="https://github.com/pjosed" 
             target="_blank"
             className="px-6 py-3 bg-white text-black rounded-xl font-semibold hover:scale-105 transition"
           >
