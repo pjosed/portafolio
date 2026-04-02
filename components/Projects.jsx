@@ -16,7 +16,7 @@ export default function Projects() {
           Incluye mecánicas educativas sobre phishing, spoofing y ciberadicción. Artículo publicado en la revista OnBoard Knowledge Journal, 2025"
           tech="Java"
           link="https://github.com/pjosed/ProyectoFinalPoo"
-          image="/images/proyecto1.png"
+          image="/images/Proyecto1.png"
         />
 
         <ProjectCard
@@ -24,7 +24,7 @@ export default function Projects() {
           description="Visualización de la ruta más corta entre dos puntos dentro del campus universitario utilizando algoritmos de grafos"
           tech="Python, NetworkX, Matplotlib"
           link="https://github.com/pjosed/ProyectoAplicacionesGrafos"
-          image="/images/proyecto2.png"
+          image="/images/Proyecto2.png"
 
         />
 
@@ -33,7 +33,7 @@ export default function Projects() {
           description="Proyecto colaborativo de sistema completo de gestión de inventario y proveedores con contribuciones al front-end y parte del backend.
            Diseñado para el flujo real de un supermercado: productos, proveedores, entregas, reposiciones y control total desde una GUI."
           link="https://github.com/pjosed/LabEDD"
-          image="/images/proyecto3.png"
+          image="/images/Proyecto3.png"
 
         />
 
@@ -42,7 +42,7 @@ export default function Projects() {
           description="Proyecto colaborativo de desarrollo de una aplicación de un restaurante para usuarios y administradores con contribuciones al front-end  backend.
           Permite a los usuarios ver el menú de los restaurantes y realizar pedidos, mientras que los administradores pueden gestionar el inventario"
           link="https://github.com/pjosed/EDD2"
-          image="/images/proyecto4.png"
+          image="/images/Proyecto4.png"
 
         />
 
@@ -50,7 +50,7 @@ export default function Projects() {
           title="Unitravesia"
           description="Juego divertido creado de manera colaborativa inspirado en la travesía diaria de los estudiantes de la Universidad del Norte, con contribuciones al front-end y backend."
           link="https://github.com/pjosed/Unitravesia"
-          image="/images/proyecto5.png"
+          image="/images/Proyecto5.png"
 
         />
 
