@@ -37,9 +37,9 @@
 
 Si quieres conectarte o colaborar conmigo:  
 
-- **Correo:** [tuemail@ejemplo.com](jose102005p@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/tu-perfil]([https://linkedin.com](https://www.linkedin.com/in/jose-pe%C3%B1a-b584042b0/))  
-- **GitHub:** [github.com/tu-usuario](https://github.com/pjosed)  
+- **Correo:** [jose102005p@gmail.com](jose102005p@gmail.com)  
+- **LinkedIn:** [https://www.linkedin.com/in/jose-pe%C3%B1a-b584042b0/]([https://linkedin.com](https://www.linkedin.com/in/jose-pe%C3%B1a-b584042b0/))  
+- **GitHub:** [github.com/pjosed](https://github.com/pjosed)  
 
 ---
 
