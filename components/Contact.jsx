@@ -4,7 +4,7 @@ export default function Contact() {
       <div className="max-w-4xl mx-auto text-center">
 
         <h2 className="text-3xl md:text-4xl font-bold mb-6">
-          Contáctame
+          Contáctame :)
         </h2>
 
         <p className="text-gray-400 mb-8">
@@ -15,19 +15,12 @@ export default function Contact() {
         <div className="flex flex-col md:flex-row justify-center gap-4">
 
           <a
-            href="mailto:tuemail@gmail.com"
+            href="mailto:jose102005p@gmail.com"
             className="px-6 py-3 bg-white text-black rounded-xl font-semibold hover:scale-105 transition"
           >
             Enviar Email
           </a>
 
-          <a
-            href="https://github.com/pjosed"
-            target="_blank"
-            className="px-6 py-3 border border-white rounded-xl font-semibold hover:bg-white hover:text-black transition"
-          >
-            GitHub
-          </a>
 
         </div>
 
