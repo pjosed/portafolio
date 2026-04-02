@@ -18,6 +18,7 @@ export default function Hero() {
   return (
     <section
       onMouseMove={handleMouseMove}
+      id = "hero"
       className="relative min-h-screen flex flex-col justify-center items-center text-white text-center px-6 overflow-hidden bg-black"
     >
       {/* Fondo dinámico tipo "agua" */}

@@ -3,6 +3,7 @@ import Projects from "../components/Projects";
 import Skills from "../components/Skills";
 import About from "../components/About";
 import Contact from "../components/Contact";
+import Navbar from "../components/Navbar";
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
 
       <div className="h-px w-1/2 mx-auto bg-white/10 my-10" />
 
+      <Navbar />
       <About />
 
       <div className="h-px w-1/2 mx-auto bg-white/10 my-10" />

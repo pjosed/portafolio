@@ -12,7 +12,7 @@ export default function Skills() {
   ];
 
   return (
-    <section className="py-20 px-6 bg-linear-to-b from-gray-950 to-black  text-white">
+    <section id="skills" className="py-20 px-6 bg-linear-to-b from-gray-950 to-black  text-white">
       <div className="max-w-5xl mx-auto text-center">
 
         <h2 className="text-3xl md:text-4xl font-bold mb-10">

@@ -2,7 +2,7 @@ import ProjectCard from "./ProjectCard";
 
 export default function Projects() {
   return (
-    <section className="min-h-screen bg-linear-to-b from-gray-900 to-gray-950 text-white px-6 py-20">
+    <section id="projects" className="min-h-screen bg-linear-to-b from-gray-900 to-gray-950 text-white px-6 py-20">
 
       <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">
         Proyectos
