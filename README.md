@@ -20,7 +20,6 @@
 | **Juego de Ciberseguridad** | Juego educativo que enseña sobre phishing, spoofing y ciberadicción. | Java, OOP, UI |
 | **Portafolio Web Profesional** | Página web interactiva para mostrar mis proyectos y habilidades. | React, Tailwind CSS, React Icons |
 | **Mapa Interactivo de la Universidad** | Representación de grafo de ubicaciones con rutas y pesos personalizados. | Python, NetworkX, Matplotlib, Tkinter |
-| **Integración Spotify API** | Proyecto que conecta con la API de Spotify para análisis musical y visualizaciones. | Python, APIs, JSON |
 
 > Más proyectos están en desarrollo y serán añadidos pronto :))
 
