@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 👋 Hola, soy Jose David
 
-## Getting Started
+¡Bienvenido a mi portafolio! Aquí encontrarás una colección de mis proyectos de **desarrollo web, programación en Java y Python, integración de APIs, y proyectos educativos y creativos**. Este repositorio refleja mi aprendizaje, experimentación y pasión por la tecnología.  
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 💻 Sobre mí
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Estudiante de **Ingeniería de Sistemas** en la Universidad del Norte.  
+- Experiencia en **Java, Python, HTML, CSS, JavaScript y SQL**.  
+- Desarrollo de proyectos **web y de software educativo**, incluyendo un juego de ciberseguridad publicado en revista académica.  
+- Apasionado por la **innovación, los retos técnicos y la creatividad en la programación**.  
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚀 Proyectos destacados
 
-## Learn More
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| **Juego de Ciberseguridad** | Juego educativo que enseña sobre phishing, spoofing y ciberadicción. | Java, OOP, UI |
+| **Portafolio Web Profesional** | Página web interactiva para mostrar mis proyectos y habilidades. | React, Tailwind CSS, React Icons |
+| **Mapa Interactivo de la Universidad** | Representación de grafo de ubicaciones con rutas y pesos personalizados. | Python, NetworkX, Matplotlib, Tkinter |
 
-To learn more about Next.js, take a look at the following resources:
+> Más proyectos están en desarrollo y serán añadidos pronto :))
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠️ Habilidades
 
-## Deploy on Vercel
+- **Lenguajes:** Java, Python, HTML, CSS, SQL  
+- **Herramientas:** Git, GitHub, VS Code, Netbeans, Google Colab, Logisim, Nios II / DE2-115  
+- **Otros:** Desarrollo de juegos educativos, integración de APIs, simulaciones gráficas  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📫 Contacto
+
+Si quieres conectarte o colaborar conmigo:  
+
+- **Correo:** [jose102005p@gmail.com](jose102005p@gmail.com)  
+- **LinkedIn:** [https://www.linkedin.com/in/jose-pe%C3%B1a-b584042b0/]([https://linkedin.com](https://www.linkedin.com/in/jose-pe%C3%B1a-b584042b0/))  
+- **GitHub:** [github.com/pjosed](https://github.com/pjosed)  
+
+---
+
+## ✨ Extras
+
+Este portafolio es **moderno, interactivo y visualmente atractivo**. Aquí podrás ver mi evolución, mis experimentos y mis proyectos con un enfoque práctico y creativo. ¡Explora y descubre todo lo que puedo crear!
